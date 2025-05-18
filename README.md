@@ -4,7 +4,7 @@ https://www.quantumcoalition.io/
 
 For any questions, please reach out to Anusha Dandapani (dandapani@unicc.org), Gillian Makamara (gillian.makamara@itu.int), Devyani Rastogi (rastogi@unicc.org), Luke Sebold (lts45@case.edu)
 
-NOTE: The submission for this challenge is under Submissions folder. Details of the submission are in [README.md](submissions/README.md).
+## NOTE: The submission for this challenge is under Submissions folder. Details of the submission are in [README.md](submissions/README.md).
 
 ---
 
