@@ -18,7 +18,7 @@
 * The structure of classical NN has Four layers:
     1. Input : Matches the dimension of input dataset ( 30 )
     2. Hidden : It is equivalent to 20
-    3. Sub Output: This has 10 nodes and is connected to qunatum
+    3. Sub Output: This has 10 nodes and is connected to quantum layer
     4. Classifier: This gets results from the qunatum layer
 
 * Since the dataset was not balanced we have used nn.BCEWithLogitsLoss with pos_weight calculated based on the dataset ration.
